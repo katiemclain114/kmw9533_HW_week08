@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cc86b011307d894e8f64c9ac92be4f1, type: 3}
+  m_Name: Cigar
+  m_EditorClassIdentifier: 
+  invImage: {fileID: 7293586483939213195, guid: e465ed3de36f9f340b871585cfc17cc2,
+    type: 3}
+  itemImage: {fileID: 0}
+  room: 0
+  description: This is a cigar that will need to be lit to be used with blank paper
